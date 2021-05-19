@@ -5,16 +5,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Articles</title>
+    <title>contact</title>
 </head>
 
 <body>
-    <h1>Listes des Articles</h1>
-    @foreach ($posts as $post )
-    <h3>{{$post}}</h3>
-    @endforeach
-
-
+    <h1>Contact nous !</h1>
 </body>
 
 </html>

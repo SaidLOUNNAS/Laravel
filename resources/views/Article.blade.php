@@ -9,12 +9,7 @@
 </head>
 
 <body>
-    <h1>Listes des Articles</h1>
-    @foreach ($posts as $post )
-    <h3>{{$post}}</h3>
-    @endforeach
-
-
+    <h1>{{$post}}</h1>
 </body>
 
 </html>
